@@ -1,3 +1,6 @@
+#no of candles as by age 
+#only tallest candle will be lit
+#find the tallest candle and a count of the tallest candles
 def maxAge(candles_count,candles):
     max_age=candles[0]
     for i in range(candles_count):
